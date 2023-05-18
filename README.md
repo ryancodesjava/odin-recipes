@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project through the web development course, The Odin Project. This project is a website that contains multiple different web pages. The main page includes links to several different web pages which give a recipe to the user. The user is able to guide themselves between the pages with links. 
